@@ -1,4 +1,4 @@
-# ERMNStreamsideBirdsDatasetmlmodel | ML Project
+# ERMNStreamsideBirdsDatasetmlmodel 
 Biodiversity monitoring plays a crucial role in understanding ecosystem health and environmental sustainability. Birds are considered key ecological indicators because changes in bird populations often reflect changes in habitat quality, climate conditions, and human activities. Streamside bird monitoring programs generate large volumes of observational data that require advanced analytical techniques to extract meaningful insights.
 Traditional ecological analysis methods are limited in handling complex, high-dimensional datasets. With the rise of Machine Learning (ML), predictive analytics has become a powerful approach for analyzing ecological datasets, identifying patterns, and forecasting outcomes based on historical data.
 This project applies supervised and unsupervised machine learning techniques to the ERMN Streamside Birds Point Count dataset to analyze detection patterns, species diversity, and event-level observations.
